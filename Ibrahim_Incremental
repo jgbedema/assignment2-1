@@ -1,0 +1,16 @@
+Incremental Model 
+
+Phase 1: Base User Design
+Create page for returning users and new user
+Phase 2: 
+Create page for student users that log in (new/returning) that shows a list of pages (user info, class schedule, register for classes)
+“……..”,”……” for instructor users (to look at roster, search classes, etc.)
+Phase 3:
+Create the database of user, classes
+Phase 4:
+Connect the classes db to the list of classes page, as well as integrating the users created in the db
+Phase 5: 
+Create the ui for each of the pages and test the software
+Phase 6:
+Ship it out for use
+
