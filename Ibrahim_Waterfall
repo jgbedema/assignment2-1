@@ -1,0 +1,27 @@
+Waterfall Model: Scheduling Systems
+
+Requirements:
+Back-end:
+Database of Users, courses, Users(Student – Instructor – Admin – etc)
+Scheduling Periods(Semester-by-Semester basis, Planning)
+Constraints: 100 students, 10 instructors, 1 admin
+System and Software Design:
+User creation / User Permissions (coding / object-oriented)
+Student: Access their schedule - List of classes to register - Adding/Dropping courses
+Instructor : Access to roster - schedule 
+Admin : add/remove users, users from courses, courses from system, search/print roster and courses
+Front-end:
+Web-dev / User-Interface design
+Creating pages/ buttons
+Implementation:
+Create a main page for the user to access their info, ability to register or view classes depending on their level
+Pages (Information, course list, registered classes list)
+Create buttons for the user to navigate through different pages / print any of the page info
+
+Test
+Allow for other groups, people in general to test and register for any given semester if they are a student. Otherwise, can look at a sample size of students registered, or can manipulate the classes and user available.
+Deploy
+Upload software online or store it somewhere for reuse.
+Maintenance
+Allow for user feedback on a public platform (forum, social media) and adjust cater to concerns
+
