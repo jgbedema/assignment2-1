@@ -1,0 +1,25 @@
+Integrate and Configure Model
+
+Requirement Specification:
+User-login page
+Main page listing options for the user
+	User info
+	Class schedule
+	Roster, etc.
+Buttons to navigate between pages
+Scheduling for multiple semesters, and having drafted schedules for preferred classes
+*Allow for users, with the consent between parties, to look at 
+
+Software Discovery / Evaluation:
+Leopardweb: has a user log-in section, shows class schedule for user, allows for add/drop, etc.
+Has more features for virtual training, financial aid section
+Scheduleit.com: allows for users to pick from time slots on the calendar to schedule classes as well as holidays, and list of staffs
+Outlook calendar scheduling - allows for users to reserve rooms on campus for events (studying, meetings, classes, etc.) based on the availability of the room and time constraints of the user. Allows for users to invite others
+Decided to commit to the leopard web model 
+
+Requirements Refinement:
+Instead of letting user pick from what is available, allow for users to list the times that they are available throughout the day/week (commitments, work, religious events, etc.)
+Allowing the option for students to take classes remotely, or asynchronously as a factor in scheduling
+
+Application System Configuration/ Adaptation of Components:
+Based on the requirements listed, and the refined list, there is no model that currently exist and wish to use bits of leopard web’s existing system and create new modules that allow for more accommodations 
